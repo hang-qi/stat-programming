@@ -1,7 +1,8 @@
 # Statistical Programming
 
 This repo collects notes and Python implementations of various statistic
-algorithms. Contents are derived from the class notes of STATS 202A at UCLA.
+algorithms. Contents are derived from the class notes of STATS 202A at UCLA
+instructed by Professor Yingnian Wu.
 I was also one of the students who authored the code used in class.
 
 ## Table of contents
