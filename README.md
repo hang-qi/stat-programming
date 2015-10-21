@@ -51,10 +51,10 @@ If you find any mistakes or bugs about these notes,
 or you have any suggestions,
 you can [submit issues here](https://github.com/hang-qi/stat-programming/issues).
 
-### Make contribution
+### Make contributions
 
 There are a lot of things you can do to make these notes better,
-just to name a few
+just to name a few:
 
 * improve the narration of contents
 * correct typos and mistakes
