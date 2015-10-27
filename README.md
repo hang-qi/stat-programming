@@ -14,7 +14,7 @@ Yixin Zhu and Siyuan Qi also contributed to the python code.
     - Sweep operator
     - QR decomposition
 * Principle component analysis
-* Logistic regression (to be uploaded)
+* Logistic regression
 * Neural Network (to be uploaded)
 
 ## How to view the notes?
