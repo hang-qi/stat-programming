@@ -15,9 +15,9 @@ Yixin Zhu and Siyuan Qi also contributed to the python code.
     - QR decomposition
 * Principle component analysis
 * Logistic regression
-* Neural Network
-* SVM (to be updated)
-* AdaBoost (to be updated)
+* Neural network
+* SVM
+* AdaBoost
 
 ## How to view the notes?
 
