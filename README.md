@@ -18,6 +18,11 @@ Yixin Zhu and Siyuan Qi also contributed to the python code.
 * Neural network
 * SVM
 * AdaBoost
+* Regularization
+    - Ridge regression
+    - LASSO
+* Factor Analysis
+* Monte Carlo Methods
 
 ## How to view the notes?
 
