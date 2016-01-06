@@ -7,8 +7,6 @@ I am one of the students who authored the code used in class.
 
 ## Table of contents
 
-(Contents and this table will be updated along the way.)
-
 * Linear regression
     - Sweep operator
     - QR decomposition
